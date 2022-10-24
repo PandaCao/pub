@@ -1,3 +1,2 @@
 # Hospoda (a pub)
-#Hospoda
-#základy Spring Boot, Spring MVC, JPA, REST API
+#použité technologie: Java, Spring Boot, Spring MVC, JPA, REST API
